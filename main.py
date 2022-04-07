@@ -1,3 +1,5 @@
+# Copyright 2022 Ada Health GmbH
+
 import requests
 import os
 
