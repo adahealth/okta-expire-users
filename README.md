@@ -1,6 +1,10 @@
 # okta-expire-users
 
+## Summary
 Simple python script to expire passwords and delete user sesssions for every user in an Okta organisation
+
+## Classification
+[![Confidentiality](https://img.shields.io/badge/confidentiality-C1_(Public)-green?style=plastic)](https://adahealth.atlassian.net/wiki/spaces/IS/pages/808171/ISMS+Policy+2.+Information+Classification+and+Handling#5.1.3.-Confidentiality)
 
 ## Requirements
 
